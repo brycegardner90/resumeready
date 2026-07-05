@@ -1,0 +1,13 @@
+# Personal data — never publish real profile/resume content
+Bryce_*
+claude_input_text_v1.txt
+Edits needed on html custom resume.txt
+TEST/
+*.docx
+*.pdf
+
+# Local tooling
+.claude/
+
+# Superseded draft
+MasterProfileBuilder.html
