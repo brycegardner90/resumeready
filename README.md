@@ -2,7 +2,7 @@
 
 **Fill out your career profile once. Paste it into any AI, once per job hunt. Get a tailored resume or cover letter — no subscription, no lock-in, no lost history between applications.**
 
-[Live demo →](#) <!-- update once GitHub Pages is live -->
+[Live demo →](https://brycegardner90.github.io/resumeready/)
 
 ## The problem this solves
 
