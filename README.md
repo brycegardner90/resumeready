@@ -28,7 +28,7 @@ The generated prompts explicitly instruct the AI to:
 
 ## Privacy
 
-Everything runs client-side. Your data never leaves your browser unless you choose to download or copy it yourself.
+Everything runs client-side. Your data never leaves your browser unless you choose to download or copy it yourself. The only exception is anonymous, cookie-free page-view analytics ([GoatCounter](https://www.goatcounter.com/)) — no personal data, no profile content, ever included.
 
 ## Tech
 
