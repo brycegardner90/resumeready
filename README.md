@@ -33,3 +33,11 @@ Everything runs client-side. Your data never leaves your browser unless you choo
 ## Tech
 
 Single-file HTML/CSS/vanilla JS — no build step, no dependencies. Open `index.html` directly or serve it from any static host.
+
+## Feedback
+
+Found a bug or have an idea? [Open an issue](https://github.com/brycegardner90/resumeready/issues) — that's the best way to make sure it doesn't get lost.
+
+## License
+
+© 2026 Bryce Gardner. All rights reserved — see [LICENSE](LICENSE). Viewing this repo and using the hosted app is welcome; copying or redistributing the source requires permission.
